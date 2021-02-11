@@ -10,7 +10,7 @@
 #' @aliases HettiePikeBCI
 #' @docType package
 #'
-#' @import ggplot2 dplyr reshape2 tibble
+#' @import ggplot2 dplyr reshape2 tibble xxx
 #'
 #'
 NULL
