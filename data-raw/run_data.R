@@ -7,7 +7,7 @@ devtools::wd(".", "data-raw")
 ## BCI data
 
 ### Load individual BCI records
-data <- read.delim(file.path("ViewFullTable", "ViewFullTable.txt"))
+data <- read.delim("ViewFullTable.txt")
 
 ### Load BCI taxonomic data, create new species column, and extract species
 taxa <- read.delim("ViewTax.txt") %>%
