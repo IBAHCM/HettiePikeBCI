@@ -1,1 +1,2 @@
 my_demo   A simple demo
+diversity-of-BCI    Showing the diversity of the BCI forest plot.
