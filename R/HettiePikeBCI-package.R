@@ -3,11 +3,16 @@
 #' Package to hold the BCI data provided by The smithsonian repository
 #' {https://repository.si.edu/handle/10088/20925}.
 #'
-#' Dependacies include
+#' Dependacies include:
+#'
 #' - ggplot2 to visualise data
+#'
 #' - dplyr to manipulate data
+#'
 #' - reshape2 to transform data
+#'
 #' - tibble to recycle inputs of the data
+#'
 #' - magrittr to make code more readable
 #'
 #'\code{HettiePikeBCI} package developed as part of the Reproducible
