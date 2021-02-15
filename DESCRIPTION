@@ -3,7 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: person("Hettie", "Pike", email = "2576341P@student.gla.ac.uk",
-                  role = c("cre", "aut"), comment = c(ORCID = "0000-0003-1536-2066"))
+                  role = c("cre", "aut"))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
