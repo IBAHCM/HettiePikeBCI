@@ -1,9 +1,14 @@
 #' Barro Colorado Island data package
 #'
-#' Package to hold the BCI data (or whatever) – maybe also mention something
-#' about these functions now, and put that in the DESCRIPTION too. And then
-#' put it in the README.md file. And don't forget to reference the source of
-#' the data correctly.
+#' Package to hold the BCI data provided by The smithsonian repository
+#' {https://repository.si.edu/handle/10088/20925}.
+#'
+#' Dependacies include
+#' - ggplot2 to visualise data
+#' - dplyr to manipulate data
+#' - reshape2 to transform data
+#' - tibble to recycle inputs of the data
+#' - magrittr to make code more readable
 #'
 #'\code{HettiePikeBCI} package developed as part of the Reproducible
 #'Programming in R course.
